@@ -3,4 +3,3 @@ main: Crystal.Crystal
 version: 1.0
 commands:
   tc:
-  test:
